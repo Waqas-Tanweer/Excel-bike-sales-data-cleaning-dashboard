@@ -40,7 +40,7 @@ Pivot tables were used to summarize and analyze the cleaned data.
 ---
 
 ## Dashboard
-An interactive Excel dashboard was created using pivot charts and slicers to explore customer behavior.
+An interactive Excel dashboard was created using pivot charts and slicers to explore customer behavior. 
 
 ![Dashboard](screenshots/dashboard.png)
 
